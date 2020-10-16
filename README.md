@@ -1,1 +1,1 @@
-# mc.excercise
+# mc-excercise
